@@ -7,10 +7,10 @@ A compact index of my public software projects across **Blender tooling**, **Pyt
 | Project | Area | Highlights |
 |---|---|---|
 | [Modifier State Vault — Showcase](https://github.com/pythoncoderc-rgb/modifier-state-vault-showcase) | Blender / Python | Exact modifier-state workflows, reusable profiles, release QA, docs |
-| [Python Calculator](https://github.com/pythoncoderc-rgb/python-calculator) | Python | `src/` package layout, Decimal math, CLI, unittest, GitHub Actions |
 | [File Organizer CLI](https://github.com/pythoncoderc-rgb/python-file-organizer) | Python | Safe dry-run workflow, filesystem automation, collision-safe moves |
-| [Smart Home Controller](https://github.com/pythoncoderc-rgb/smart-home-cpp) | C++17 | Bitmask state model, class API, CMake, CTest, CI |
 | [Log Analyzer](https://github.com/pythoncoderc-rgb/cpp-log-analyzer) | C++17 | Log parsing, severity filters, summary statistics, CMake, CTest |
+| [Smart Home Controller](https://github.com/pythoncoderc-rgb/smart-home-cpp) | C++17 | Bitmask state model, class API, CMake, CTest, CI |
+| [Python Calculator](https://github.com/pythoncoderc-rgb/python-calculator) | Python | `src/` package layout, Decimal math, CLI, unittest, GitHub Actions |
 
 ## Verification
 
